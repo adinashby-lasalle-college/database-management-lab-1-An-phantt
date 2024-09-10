@@ -31,8 +31,9 @@ By the end of this lab, students will understand the basic structure of a table,
 
 #### Questions:
 1. What is the purpose of setting a primary key?
+To quickly associate data from multiple tables and combine that data in a meaningful way.
 2. What data types did you use for each field, and why?
-
+Text for name, last name, email. Date for DOB and long text for email
 ---
 
 ### Part 2: Adding Data to the Table
@@ -48,7 +49,7 @@ By the end of this lab, students will understand the basic structure of a table,
 
 #### Questions:
 1. What do you observe about the **StudentID** field when you enter data?
-
+It automaticly shows the number 
 ---
 
 ### Part 3: Creating a Query
@@ -67,8 +68,9 @@ By the end of this lab, students will understand the basic structure of a table,
 
 #### Questions:
 1. What is the purpose of a query in a database?
+Help filter, find and work with data
 2. How does using criteria in queries help with filtering data?
-
+Quickly find the data you need
 ---
 
 ### Part 4: Modifying the Query
